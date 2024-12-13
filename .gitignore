@@ -162,3 +162,5 @@ Mid-term/creditcard.csv
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 Final_exam_part_B/data/*
+
+venv_AIA/*
